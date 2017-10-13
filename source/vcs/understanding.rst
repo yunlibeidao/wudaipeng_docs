@@ -68,4 +68,3 @@
 .. [#f1] http://blog.jobbole.com/14489/
 .. [#f2] http://www.catb.org/~esr/writings/version-control/version-control.htm
 .. [#f3] http://producingoss.com/zh/vc.html
-
